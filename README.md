@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rakshan082
-- 👀 I’m a Nobody now and i will be a Somebody tomorrow
 - 🌱 I’m currently learning Web Development & Networks for fun
 - 💞️ I’m looking to collaborate on Product Market Fit & Ideas for Startups
 - 📫 How to reach me - https://www.linkedin.com/in/rakshan-chengappa-cd/
